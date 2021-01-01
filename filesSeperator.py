@@ -16,7 +16,7 @@ subcategory={
                 '.hdv','.mxf','.mpeg-2','.ts','.wav','.lfx',
                 '.gfx''.vob'],
     'IMAGES':['.jpg','.jpeg','.raw','.png','.tiff','.gif',],
-    'PROGRAMMING FILES':['.htm','.html','.cpp','.c','.py']
+    'PROGRAMMING FILES':['.htm','.html','.cpp','.c','.py','.css','.java']
 }
 def findTheCategory (value):
     for filename,ext in subcategory.items():
