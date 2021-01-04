@@ -11,7 +11,7 @@ subcategory={
                 '.odt'],
     'AUDIO':['.mp3','.m4b','.m4a','.webvtt','.cea-608/708',
             '.dfxp', '.sami', '.scc', '.srt', '.ttml', '.3gpp'],
-    'VIDEOS':['.mov','.avi','.mp4''.3gp','.ogg', '.oga', '.ogv',
+    'VIDEOS':['.mov','.avi','.mp4','.3gp','.ogg', '.oga', '.ogv',
                 '.ogx','.wmv','.webm','.flv','.avi','.QuickTime',
                 '.hdv','.mxf','.mpeg-2','.ts','.wav','.lfx',
                 '.gfx''.vob'],
