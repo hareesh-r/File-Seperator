@@ -1,5 +1,9 @@
 import os
-from pathlib import Path
+try:
+    from pathlib import Path
+except:
+    os.system('python -m pip install pathlib')
+    from pathlib import Path
 
 """
 Download or copy and Paste this cose and save with .py extension and
